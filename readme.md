@@ -82,26 +82,22 @@ php -v
 php --version
 ```
 
-## Exercícios
+##  Projeto
 
-Para executar os exercícios, após a instalação do php em sua máquina, siga os passos a seguir
+Para executar o projeto, após a instalação do php em sua máquina, siga os passos a seguir
 - Clone este repositório
-- abra o seu terminal e navegue até a pasta logica-programacao
+- abra o seu terminal e navegue até a pasta projeto
 - execute o seguinte comando para iniciar o servidor local php:
 
 ```bash
-    php -S localhost:8000 -t [nome da pasta que contem o exercicio]
-    Ex: php -S localhost:8000 -t exercicio01
+    php -S localhost:8000 -t projeto
+
 ```
-Para executar outro exercício, é necessário encerrar a execução anterior:
+Para encerrar a execução:
 ```bash
     pkill -9 php
 ```
-inicie o servidor novamente com o nome da pasta do exercício
-```bash
-    php -S localhost:8000 -t [nome da pasta que contem o exercicio]
-    
-```
+
 
 [Projeto](projeto/) 
 
