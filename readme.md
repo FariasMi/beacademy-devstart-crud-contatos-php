@@ -117,7 +117,7 @@ Cadastro
 ![Alt cadastro](projeto/img/cadastro.png) 
 
 Lista de Contatos
-![Alt lista de contatos](projeto/img/contatos.png) 
+![Alt lista de contatos](projeto/img/lista-contato.png) 
 
 ## Referência
 
